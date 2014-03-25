@@ -1,0 +1,2 @@
+serviceClass: com.oxistudios.golfapp.client.GreetingService
+path: A7CCDC53BDB7133BC865C19CC4C12986.gwt.rpc
